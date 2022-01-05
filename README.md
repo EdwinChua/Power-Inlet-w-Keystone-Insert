@@ -2,7 +2,8 @@
 For Voron 0.1
 
 ## Description
-Adds a keystone slot for the v0.1 Power Inlet. This does not change the way the inlet mounts onto the frame.
+Adds a keystone slot for the v0.1 Power Inlet. This does not change the way the inlet mounts onto the frame. 
+_This was remixed in TinkerCad, using the original v0.1 power inlet, as well as a section of the v2.4 power inlet (the keystone insert portion)._
 
 <img src="./images/installed.jpg" width="400">
 
