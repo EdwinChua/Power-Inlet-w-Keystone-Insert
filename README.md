@@ -5,6 +5,7 @@ For Voron 0.1
 Adds a keystone slot for the v0.1 Power Inlet. This does not change the way the inlet mounts onto the frame.
 
 ![Installed inlet](./images/installed.jpg)
+<img src="./images/installed.jpg" width="200" height="100">
 
 ## BOM
 1. Keystone insert x1
